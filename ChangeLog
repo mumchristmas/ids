@@ -1,4 +1,117 @@
+2021-06-10  MORIOKA Tomohiko  <tomo.git@chise.org>
+
+	* IDS-UCS-Basic.txt (U+5CDA): Modify structure.
+	(U+5E51): Modify structure; add apparent structure.
+	(U+5F02): Revert the previous change.
+
+2021-06-08  ColtMa  <mumchristmas@gmail.com>
+
+	* IDS-UCS-Basic.txt: fix:
+	(U+5CDA 峚): ⿳山大土 --> ⿱山圶
+	(U+5E51 幑): ⿲彳⿳山丿巾攵 --> ⿲彳⿱山帀攵
+	(U+5F02	异): ⿱己廾 --> ⿱巳廾
+
+2021-06-08  ColtMa  <mumchristmas@gmail.com>
+
+	* IDS-UCS-Basic.txt: Fix
+	(U+5668 器): ⿴㗊大 --> ⿴㗊犬	@apparent=⿱哭吅
+
+2021-06-08  ColtMa  <mumchristmas@gmail.com>
+
+	* IDS-UCS-Basic.txt: fix:
+	(U+72FB 狻): ⿰犭夌 --> ⿰犭夋
+	(U+7B51 筑): ⿱竹&C4-2263 (u7b51-t) --> ⿱竹巩 (u7b51)
+	(U+7B5A 筚): ⿱笓十 --> ⿱竹毕
+	(U+7F80 羀): ⿰网畱 --> ⿱网畱
+
+2021-06-09  MORIOKA Tomohiko  <tomo.git@chise.org>
+
+	* IDS-UCS-Ext-B-4.txt (U-00027153): Modify structure.
+	(U-00027159): Use "顡" instead of "⿰豙頁".
+	(U-0002715B): Use "䊮" instead of "⿰米翟".
+
+	* IDS-UCS-Ext-B-5.txt (U-000283FC): Use U+862D instead of JU+862D.
+
+	* IDS-UCS-Ext-B-1.txt (U-00020FBA): Use U+5584 instead of CU+5584.
+	(U-00021167): Use U+96E3 instead of JU+96E3.
+	(U-00021168): Use "簷" instead of "⿱竹詹".
+	(U-00021183): Use U+5584 instead of CU+5584.
+
+	* IDS-UCS-Ext-A.txt (U+4049): Use U-0002BF09 instead of
+	hanaJU+2BF09.
+	(U+42EF): Ditto.
+
+	* IDS-UCS-Basic.txt (U+6EAC): Use "羗" instead of "⿷羌厶".
+	(U+6F80): Use "歰" instead of "⿱⿰刃刃𣥖".
+	(U+7361): Use "舄" instead of "⿱臼𤆛".
+	(U+8BBA): Use "仑" instead of "⿱𠆢匕".
+	(U+9B1B): Use "龱" instead of "⿴囗㐅"; modify structure.
+
+2021-06-09  MORIOKA Tomohiko  <tomo.git@chise.org>
+
+	* IDS-UCS-Ext-B-5.txt (U-000283FA): Modify structure; preserve the
+	previous IDS as a apparent structure.
+	(U-0002903C): Use "⿹𢽳x" instead of "⿰⿱林x攵".
+	(U-00029164): Use "𢽳" instead of "⿰林攵".
+
+	* IDS-UCS-Ext-B-3.txt (U-0002530A): Use "⿴辡x" instead of
+	"⿲辛x辛".
+
+	* IDS-UCS-Ext-B-1.txt (U-00020012): Modify structure; preserve the
+	previous IDS as a apparent structure.
+	(U-00020B46): Likewise.
+	(U-00020B4F): Modify structure; add apparent structure.
+	(U-000210A7): Modify structure.
+	(U-000210A8): Modify structure; preserve the previous IDS as a
+	apparent structure.
+	(U-00021166): Use "𪠲" instead of "⿱口又".
+	(U-0002117B): Modify structure; preserve the previous IDS as a
+	apparent structure.
+	(U-0002117D): Modify structure; add apparent structure.
+	(U-00021E0D): Use "𪠲" instead of "⿱口又".
+
+	* IDS-UCS-Ext-A.txt (U+404A): Use "⿸䀑x" instead of "⿰目⿱叉x".
+
+	* IDS-UCS-Basic.txt: Use "⿸厌x" instead of "⿸厂⿱犬x".
+	(U+4E9A): Add apparent IDS.
+	(U+5C3D): Use "⿵尺x" instead of "⿱尺x".
+	(U+631D): Use U+8FC7 instead of CU+8FC7.
+	(U+6655): Use "⿱x军" instead of "⿳x冖车".
+	(U+6D55): Use "尽" instead of "⿵尺&CDP-8971;".
+	(U+75D6): Use "亚" instead of "⿱一业".
+	(U+7AAD): Use "⿱x娄" instead of "⿳x米女".
+	(U+7BA9): Use "⿱x罗" instead of "⿳x⺫夕".
+	(U+7BC4): Use U-000282A0 instead of BC-8D49.
+	(U+7BD3): Use "⿱x娄" instead of "⿳x米女".
+	(U+7FDA): Use "⿱x军" instead of "⿳x冖车".
+	(U+8D46): Use "尽" instead of "⿵尺&CDP-8971;".
+	(U+8DF9): Use "迁" instead of "⿺辶千".
+	(U+96DA): Modify structure; preserve the previous IDS as a
+	apparent structure.
+
+	* IDS-UCS-Ext-B-4.txt (U-00027156): Use "鶪" instead of
+	"⿰⿱目大鳥".
+
 2021-06-08  MORIOKA Tomohiko  <tomo.git@chise.org>
+
+	* IDS-UCS-Ext-D.txt (U-0002B764): Use U+9FB9 instead of JU+20509.
+	(U-0002B7B3): Use U+5905 instead of UU+5905.
+	(U-0002B7B5): Use "冝" instead of "⿱冖且".
+
+	* IDS-Daikanwa-02.txt (M-04518): Modify structure; preserve the
+	previous IDS as a apparent structure.
+	(M-04519): Likewise.
+
+	* IDS-CNS-1.txt: Sync up with the current environment.
+
+	* IDS-UCS-Ext-D.txt (U-0002B746): Use "⿱x丆" instead of
+	"⿳亼一丿".
+
+	* IDS-UCS-Basic.txt (U+4ECA): Modify structure; preserve the
+	previous IDS as a apparent structure.
+
+	* IDS-UCS-Ext-A.txt: Use <CJK STROKE Q> instead of <IDEOGRAPHIC
+	NUMBER ZERO>.
 
 	* IDS-Daikanwa-03.txt: Sync up with the current environment.
 
